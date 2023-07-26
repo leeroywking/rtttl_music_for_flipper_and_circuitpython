@@ -1,0 +1,1 @@
+song = {'title':'Persuasi','bpm':300,'duration':32,'octave':5,'notes':[['16', 'G', '2', True, True], ['1', 'P', '', True, False], ['16', 'G', '2', True, True], None, ['16', 'D', '4', True, True], ['16', 'G', '2', True, True], ['1', 'P', '', True, False], ['16', 'G', '2', True, True], None, ['16', 'D', '4', True, True]]}

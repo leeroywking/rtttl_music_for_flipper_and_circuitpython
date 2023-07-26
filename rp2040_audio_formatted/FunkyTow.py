@@ -1,0 +1,1 @@
+song = {'title':'FunkyTow','bpm':125,'duration':8,'octave':5,'notes':[['', 'F', '', False, False], ['', 'F', '', False, False], ['', 'D', '', False, True], ['4', 'F', '', False, False], ['4', 'C', '', False, False], ['', 'C', '', False, False], ['', 'F', '', False, False], ['', 'A', '', False, True], ['', 'A', '', False, False], ['4', 'F', '', False, False]]}

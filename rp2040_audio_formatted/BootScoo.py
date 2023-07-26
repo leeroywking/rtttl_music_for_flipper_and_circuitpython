@@ -1,0 +1,1 @@
+song = {'title':'BootScoo','bpm':50,'duration':16,'octave':6,'notes':[['32', 'C', '', False, False], ['', 'C', '', False, False], ['32', 'C', '', False, False], ['', 'C', '', True, False], ['', 'A', '5', False, True], ['32', 'G', '5', False, False], ['32', 'A', '5', True, False], ['4', 'F', '', True, False]]}

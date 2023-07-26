@@ -1,0 +1,1 @@
+song = {'title':'EminemRe','bpm':125,'duration':4,'octave':5,'notes':[['', 'F', '', False, False], ['', 'F', '', False, False], ['8', 'G', '6', False, False], ['8', 'G', '6', False, False], ['8', 'P', '', False, False], ['32', 'G', '7', False, False], ['', 'G', '', True, True]]}

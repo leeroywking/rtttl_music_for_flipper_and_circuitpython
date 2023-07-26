@@ -1,0 +1,1 @@
+song = {'title':'2Pac - Two Of Amerikas Most Wanted ','bpm':100,'duration':4,'octave':5,'notes':[['8', 'D', '', False, True], ['16', 'D', '', False, True], ['16', 'D', '', False, True]]}

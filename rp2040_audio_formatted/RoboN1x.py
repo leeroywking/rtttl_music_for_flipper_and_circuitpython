@@ -1,0 +1,1 @@
+song = {'title':'RoboN1x','bpm':300,'duration':32,'octave':5,'notes':[None, ['', 'D', '4', False, True], ['1', 'P', '', True, False], ['8', 'P', '', True, False]]}

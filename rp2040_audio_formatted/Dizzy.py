@@ -1,0 +1,1 @@
+song = {'title':'Dizzy','bpm':300,'duration':32,'octave':5,'notes':[None]}

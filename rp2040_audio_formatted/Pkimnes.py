@@ -1,0 +1,1 @@
+song = {'title':'Pkimnes','bpm':200,'duration':4,'octave':6,'notes':[['8', 'F', '', False, False], ['16', 'A', '', False, False], ['16', 'A', '_', False, False], ['16', 'C', '7', False, False], ['16', 'A', '_', False, False], ['16', 'A', '', False, False], ['16', 'A', '_', False, False], ['8', 'F', '_', True, False], ['16', 'F', '', False, False], ['', 'P', '', False, False]]}

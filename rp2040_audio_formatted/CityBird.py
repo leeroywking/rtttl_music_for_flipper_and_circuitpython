@@ -1,0 +1,1 @@
+song = {'title':'CityBird','bpm':300,'duration':32,'octave':5,'notes':[['16', 'E', '4', True, False], ['', 'P', '', False, False], ['16', 'E', '4', True, False], ['8', 'D', '4', True, False]]}

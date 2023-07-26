@@ -1,0 +1,1 @@
+song = {'title':'Play','bpm':140,'duration':16,'octave':5,'notes':[['', 'G', '', False, True], ['8', 'G', '', False, False], ['8', 'A', '6', False, False], ['8', 'C', '7', False, False], ['8', 'G', '', False, False], ['4', 'G', '6', False, False], ['', 'G', '6', False, True], ['8', 'A', '', False, False], ['4', 'P', '', False, False], ['8', 'G', '7', False, True]]}

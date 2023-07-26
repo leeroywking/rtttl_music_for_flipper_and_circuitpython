@@ -1,0 +1,1 @@
+song = {'title':'Polite','bpm':300,'duration':32,'octave':5,'notes':[['', 'E', '4', False, False], ['', 'G', '2', False, False], ['', 'E', '4', False, False], ['2', 'P', '', True, False], ['2', 'P', '', True, False], ['', 'E', '4', False, False], ['', 'G', '2', False, False], ['', 'E', '4', False, False]]}

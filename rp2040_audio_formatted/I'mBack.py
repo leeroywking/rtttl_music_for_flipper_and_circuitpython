@@ -1,0 +1,1 @@
+song = {'title':'I'mBack','bpm':225,'duration':4,'octave':5,'notes':[['', 'D', '', False, False], ['8', 'G', '6', False, False], ['32', 'F', '', False, False], ['16', 'F', '6', False, False], ['8', 'A', '6', False, False], ['1', 'G', '', False, False], ['1', 'A', '', False, False], ['1', 'A', '6', False, False], ['1', 'A', '7', False, False]]}

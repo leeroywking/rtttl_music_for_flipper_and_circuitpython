@@ -1,0 +1,1 @@
+song = {'title':'Alice Deejay - Will I Ever ','bpm':125,'duration':4,'octave':5,'notes':[['', 'D', '', False, False], ['8', 'D', '', False, False], ['', 'D', '', False, False], ['', 'D', '', False, False], ['8', 'P', '', False, False], ['', 'B', '', False, False], ['8', 'A', '', False, False], ['', 'G', '', False, False], ['', 'P', '', False, False]]}

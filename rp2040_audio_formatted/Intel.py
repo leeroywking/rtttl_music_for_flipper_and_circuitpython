@@ -1,0 +1,1 @@
+song = {'title':'Intel','bpm':285,'duration':4,'octave':5,'notes':[['16', 'A', '', False, False], ['16', 'A', '', False, True], ['16', 'B', '', False, False], ['', 'C', '6', False, True], ['2', 'P', '', False, False], ['', 'C', '', False, True], ['', 'F', '', False, True], ['', 'C', '', False, True], ['', 'G', '', False, True]]}

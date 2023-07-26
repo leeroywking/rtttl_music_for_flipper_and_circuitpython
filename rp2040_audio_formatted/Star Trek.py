@@ -1,0 +1,1 @@
+song = {'title':'Star Trek','bpm':63,'duration':4,'octave':5,'notes':[['8', 'F', '', True, False], ['16', 'A', '', False, True], ['', 'D', '6', True, True], ['8', 'D', '6', False, False], ['16', 'A', '', True, True], ['16', 'G', '', True, False], ['16', 'C', '6', True, False], ['', 'F', '6', False, False]]}

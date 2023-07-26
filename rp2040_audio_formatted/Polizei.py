@@ -1,0 +1,1 @@
+song = {'title':'Polizei','bpm':160,'duration':4,'octave':5,'notes':[['2', 'G', '', False, False], ['2', 'C', '6', False, False], ['2', 'G', '', False, False], ['2', 'C', '6', False, False], ['2', 'G', '', False, False], ['2', 'C', '6', False, False], ['2', 'G', '', False, False], ['2', 'C', '6', False, False]]}

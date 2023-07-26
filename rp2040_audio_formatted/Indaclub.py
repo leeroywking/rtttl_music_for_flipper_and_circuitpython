@@ -1,0 +1,1 @@
+song = {'title':'Indaclub','bpm':200,'duration':4,'octave':5,'notes':[None]}

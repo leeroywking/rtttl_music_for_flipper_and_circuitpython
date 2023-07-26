@@ -1,0 +1,1 @@
+song = {'title':'ValleyOf','bpm':160,'duration':4,'octave':6,'notes':[['16', 'G', '5', False, False], ['32', 'G', '', False, False], ['32', 'G', '', False, False], ['16', 'A', '7', False, False], ['2', 'D', '7', False, False], ['32', 'C', '7', False, False], ['32', 'C', '7', False, False], ['16', 'A', '', False, False], ['', 'C', '', False, False], ['2', 'F', '5', False, False]]}

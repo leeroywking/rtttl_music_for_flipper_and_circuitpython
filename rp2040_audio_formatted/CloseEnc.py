@@ -1,0 +1,1 @@
+song = {'title':'CloseEnc','bpm':125,'duration':8,'octave':6,'notes':[['4', 'G', '', False, False], ['4', 'A', '', False, False], ['4', 'F', '', False, False], ['4', 'F', '5', False, False], ['2', 'C', '', False, False], ['1', 'P', '', False, False]]}

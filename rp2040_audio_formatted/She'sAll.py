@@ -1,0 +1,1 @@
+song = {'title':'She'sAll','bpm':40,'duration':4,'octave':6,'notes':[['32', 'P', '', False, False], ['8', 'C', '', False, False], ['16', 'B', '5', False, False], ['', 'C', '', True, False], ['16', 'A', '5', True, False], ['16', 'B', '5', True, False], ['', 'G', '5', False, False]]}

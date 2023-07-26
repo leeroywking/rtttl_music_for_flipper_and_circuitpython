@@ -1,0 +1,1 @@
+song = {'title':'KnockKno','bpm':300,'duration':32,'octave':5,'notes':[['', 'E', '4', False, False], ['8', 'P', '', True, False]]}

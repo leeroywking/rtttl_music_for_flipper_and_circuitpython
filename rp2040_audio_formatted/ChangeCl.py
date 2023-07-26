@@ -1,0 +1,1 @@
+song = {'title':'ChangeCl','bpm':100,'duration':2,'octave':6,'notes':[['8', 'C', '', False, False], ['8', 'P', '', False, False], ['', 'A', '5', False, True], ['4', 'A', '5', False, False], ['', 'E', '5', True, False], ['4', 'D', '', False, False], ['', 'C', '', True, False], ['4', 'A', '', False, False], ['', 'E', '', True, False], ['4', 'D', '', False, False]]}
